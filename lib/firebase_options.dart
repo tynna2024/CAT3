@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBy3oaGoRNIvS2m9ObvNeVGKbDxnU72uGo',
-    appId: '1:1021803741673:web:d083ce020b80a30f97cb78',
-    messagingSenderId: '1021803741673',
-    projectId: 'cat3-935e0',
-    authDomain: 'cat3-935e0.firebaseapp.com',
-    storageBucket: 'cat3-935e0.appspot.com',
-    measurementId: 'G-NE4G2Q3PWR',
+    apiKey: 'AIzaSyAkEkwL_UzIUhK8TGrAWvSSp1Bo5_27LQQ',
+    appId: '1:446101120439:web:67469aec801d21b79ff432',
+    messagingSenderId: '446101120439',
+    projectId: 'shoesall-debc5',
+    authDomain: 'shoesall-debc5.firebaseapp.com',
+    storageBucket: 'shoesall-debc5.appspot.com',
+    measurementId: 'G-EVC91T619Y',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA7H-BZOR9s58r7gsYfJH57OjcybKMiGhc',
-    appId: '1:1021803741673:android:121b853bedb7a4f697cb78',
-    messagingSenderId: '1021803741673',
-    projectId: 'cat3-935e0',
-    storageBucket: 'cat3-935e0.appspot.com',
+    apiKey: 'AIzaSyBEOletwXhezUPZ4LA0cagP7ZKk6g6qAGU',
+    appId: '1:446101120439:android:77183116fa0de6079ff432',
+    messagingSenderId: '446101120439',
+    projectId: 'shoesall-debc5',
+    storageBucket: 'shoesall-debc5.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC71DZaV6ygRJWRBEsm_Rsmd5d9FCvWFOM',
-    appId: '1:1021803741673:ios:188e40a67db9885797cb78',
-    messagingSenderId: '1021803741673',
-    projectId: 'cat3-935e0',
-    storageBucket: 'cat3-935e0.appspot.com',
-    iosBundleId: 'com.example.kijuh',
+    apiKey: 'AIzaSyA1vjL-y9SdUHJ6lvjDEEFhcchBfJUUcLs',
+    appId: '1:446101120439:ios:fab8384ff96a5b379ff432',
+    messagingSenderId: '446101120439',
+    projectId: 'shoesall-debc5',
+    storageBucket: 'shoesall-debc5.appspot.com',
+    iosBundleId: 'com.example.kijana',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC71DZaV6ygRJWRBEsm_Rsmd5d9FCvWFOM',
-    appId: '1:1021803741673:ios:188e40a67db9885797cb78',
-    messagingSenderId: '1021803741673',
-    projectId: 'cat3-935e0',
-    storageBucket: 'cat3-935e0.appspot.com',
-    iosBundleId: 'com.example.kijuh',
+    apiKey: 'AIzaSyA1vjL-y9SdUHJ6lvjDEEFhcchBfJUUcLs',
+    appId: '1:446101120439:ios:fab8384ff96a5b379ff432',
+    messagingSenderId: '446101120439',
+    projectId: 'shoesall-debc5',
+    storageBucket: 'shoesall-debc5.appspot.com',
+    iosBundleId: 'com.example.kijana',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBy3oaGoRNIvS2m9ObvNeVGKbDxnU72uGo',
-    appId: '1:1021803741673:web:6bf906742eeea63097cb78',
-    messagingSenderId: '1021803741673',
-    projectId: 'cat3-935e0',
-    authDomain: 'cat3-935e0.firebaseapp.com',
-    storageBucket: 'cat3-935e0.appspot.com',
-    measurementId: 'G-QQ3KP263ZM',
+    apiKey: 'AIzaSyAkEkwL_UzIUhK8TGrAWvSSp1Bo5_27LQQ',
+    appId: '1:446101120439:web:347f55db93769f8f9ff432',
+    messagingSenderId: '446101120439',
+    projectId: 'shoesall-debc5',
+    authDomain: 'shoesall-debc5.firebaseapp.com',
+    storageBucket: 'shoesall-debc5.appspot.com',
+    measurementId: 'G-HH2P0P74ES',
   );
 }

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446101120439",
+    "project_id": "shoesall-debc5",
+    "storage_bucket": "shoesall-debc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446101120439:android:77183116fa0de6079ff432",
+        "android_client_info": {
+          "package_name": "com.josh.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEOletwXhezUPZ4LA0cagP7ZKk6g6qAGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
